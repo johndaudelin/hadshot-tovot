@@ -1,0 +1,12 @@
+.container {
+  min-height: 100vh;
+  position: relative;
+}
+
+.mainContentWrapper {
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+}
